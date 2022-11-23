@@ -1,2 +1,2 @@
 # SImple-SVM-
-![myplot.png](./.jpg)
+![](myplot.png)
